@@ -70,7 +70,7 @@ Each exercise includes:
 - Sets
 - Repetitions
 - Rest Time
-
+- Next Button
 ---
 
 ## 🥗 Diet Plans
